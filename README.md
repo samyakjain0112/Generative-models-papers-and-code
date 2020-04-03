@@ -3,7 +3,7 @@
 # Framework used:
 PYTORCH
 
-#CONTENTS
+# CONTENTS
 
 This repository at present contains the implementation of the following:
 1) Deterministic Convolutional Autoencoder
