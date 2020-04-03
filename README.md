@@ -1,7 +1,9 @@
 # Generative models implementation
 
-# Framework:
+# Framework used:
 PYTORCH
+
+#CONTENTS
 
 This repository at present contains the implementation of the following:
 1) Deterministic Convolutional Autoencoder
